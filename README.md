@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-21-orange.svg)
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20%2F%20VS%20Code-blue.svg)
 ![Course](https://img.shields.io/badge/Module-Programmation%20Orient%C3%A9e%20Objet-green.svg)
-![Institution](https://img.shields.io/badge/ISET'Com-2025--2026-brightgreen.svg)
+![Institution](https://img.shields.io/badge/ISET'Com-2026--2027-brightgreen.svg)
 
 Bienvenue dans le dépôt officiel du projet **MyFuture Core**, le projet fil rouge et la Situation d'Apprentissage et d'Évaluation (SAE) du cours de **Programmation Orientée Objet (Java)** à l'ISET'Com.
 
